@@ -13,4 +13,8 @@ h2 {
 body {
   background-color: antiquewhite;
 }  
-
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
